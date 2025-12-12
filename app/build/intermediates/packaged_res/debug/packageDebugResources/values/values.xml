@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="added_to_favorites">Added to Favorites</string>
+    <string name="app_name">Quote Explorer</string>
+    <string name="by_author">by %1$s</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="copy_quote">Copy quote</string>
+    <string name="error_loading_quotes">Error loading quotes</string>
+    <string name="explore_quotes">Explore inspiring quotes from great minds</string>
+    <string name="failed_to_add_favorites">Failed to add to favorites, please try again</string>
+    <string name="failed_to_remove_favorites">Failed to remove from favorites, please try again</string>
+    <string name="favorites_title">My Favorites</string>
+    <string name="loading_quotes">Loading quotes...</string>
+    <string name="no_favorites_yet">No favorites yet</string>
+    <string name="pull_to_refresh">Pull to refresh</string>
+    <string name="quote_details_title">Quote</string>
+    <string name="quote_list_title">Discover Quotes</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="removed_from_favorites">Removed from Favorites</string>
+    <string name="retry">Retry</string>
+    <string name="search_placeholder">Search quotes...</string>
+    <string name="share_quote">Share quote</string>
+    <string name="start_adding_favorites">Start adding quotes you love!</string>
+    <string name="view_favorites">View Favorites</string>
+    <style name="Theme.QuoteExplorer" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

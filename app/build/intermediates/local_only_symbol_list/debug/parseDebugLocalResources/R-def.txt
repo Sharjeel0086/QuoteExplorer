@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_app_icon
+font poppins_bold
+font poppins_medium
+font poppins_regular
+font poppins_semibold
+string add_to_favorites
+string added_to_favorites
+string app_name
+string by_author
+string copied_to_clipboard
+string copy_quote
+string error_loading_quotes
+string explore_quotes
+string failed_to_add_favorites
+string failed_to_remove_favorites
+string favorites_title
+string loading_quotes
+string no_favorites_yet
+string pull_to_refresh
+string quote_details_title
+string quote_list_title
+string remove_from_favorites
+string removed_from_favorites
+string retry
+string search_placeholder
+string share_quote
+string start_adding_favorites
+string view_favorites
+style Theme.QuoteExplorer
